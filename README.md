@@ -1,5 +1,5 @@
 # ConfigRoleProvider
-Role provider that utilizes web.config entries to manage ad-group to role mapping.
+.Net Role provider that utilizes web.config entries to manage ad-group to role mapping.
 
 Sample Configuration Entry
 
